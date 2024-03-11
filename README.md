@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Digital Marketing, Cloud Services**
 
 ⚡ Fun fact **A cloud weighs around a million tonnes.**
 
